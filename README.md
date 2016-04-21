@@ -11,7 +11,7 @@ This site was built using the following languages:
 * JavaScript (object oriented structure)
 * PHP (not a lot, but just to show I know something about PHP)
 
-The following technologies/services were used to streamline the generation of the above languages
+The following technologies/services were used as well
 
 * bower to manage the JS dependencies
 * SASS (SCSS flavour)
@@ -19,6 +19,8 @@ The following technologies/services were used to streamline the generation of th
 * Node (since gulp is built on node)
 * Github for storing the code (as you can see)
 * I used some Apache configuration in htaccess for some parts
+* Browserstack - testing is important
+
 
 ## Deployment
 
