@@ -15,6 +15,8 @@
 
     <h2>Matt Bee</h2>
 
+    <h3>Hello <?php echo $_GET['agency']; ?></h3>
+
   </header>
 
 
@@ -55,7 +57,7 @@
     <p>I'm a great communicator.  Be it in person, in your company chat room (Slack, HipChat etc) or over the phone, I respond politely, promptly and without confusing those that might not understand what Gulp or Apache are.</p>
 
     <h3>Skillset</h3>
-    <p>I'm well versed in a variety of langugages and development styles (see below).  Even if it isn't something I have commercial experience in, I know what's possible and where challenges lie and how to overcome them.</p>
+    <p>I'm well versed in a variety of langugages and development styles (see below).  I also love styleguides (check out my work on <a href="http://brightonfringe.review-now.net/style-guide">the Brighton Fringe Style Guide</a>).  Even if it isn't something I have commercial experience in, I know what's possible and where challenges lie and how to overcome them.</p>
 
     <h3>Time Management</h3>
     <p>Time management is important, I know you need to keep clients happy, so I manage my time and clients well to keep everyone meeting their deadlines. If something needs more time, I'll always let you know (see communication).</p>
@@ -88,7 +90,7 @@
 
   </section>
 
-  <section class="vcard">
+  <section class="contact vcard">
     <h2>Contact me</h2>
     <h3 class="fname hidden">Matt Bee</h3>
     <p>You can get me on <span class="tel">07779 887572</span> or at <a href="mailto:matt@todayishould.com" class="email">matt@todayishould.com</a></p>
